@@ -1,22 +1,6 @@
-# %PROJECT_NAME%
+# my-cleaver-theme
 
-> %PROJECT_DESCRIPTION%
-
-## Unit tests
-
-Use Jasmine to setup unit test:
-
-```
-$ npm test
-```
-
-## Code coverage
-
-Use Istanbul to get code coverage ratio:
-
-```
-$ npm run coverage
-```
+> TODO
 
 ## License
 
